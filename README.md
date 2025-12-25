@@ -1,30 +1,26 @@
-# AI Interview Buddy MVP
+# AI Interview Buddy 
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+AI Interview Buddy is a web-based interview practice platform
+that helps students prepare for technical and HR interviews
+with smart feedback and scoring.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kabirkalsi52-1794s-projects/v0-ai-interview-buddy-mvp)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/pEXzJjLGuBL)
+# Features
+ Clean and modern UI
+ Interactive interview question practice
+ Smart keyword-based feedback
+ Score evaluation for answers
+ Responsive design for all devices
 
-## Overview
+# Tech Stack
+ Next.js
+ TypeScript
+ Tailwind CSS
+ Vercel
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+# Live Demo
+https://v0-ai-interview-buddy-mvp.vercel.app
 
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/kabirkalsi52-1794s-projects/v0-ai-interview-buddy-mvp](https://vercel.com/kabirkalsi52-1794s-projects/v0-ai-interview-buddy-mvp)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/pEXzJjLGuBL](https://v0.app/chat/pEXzJjLGuBL)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+# Motivation
+The goal of this project is to help students gain confidence
+and improve their interview performance through practice
+and instant feedback.
